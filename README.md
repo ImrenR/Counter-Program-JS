@@ -39,9 +39,10 @@ Click the Decrease button to subtract 1 from the counter.
 Click the Reset button to reset the counter to 0.
 
 Video Demo:
-Watch the Demo
 
-[screen-capture (4).webm](https://github.com/user-attachments/assets/da3c4a40-a9f7-4640-aab4-eb5a6a229542)
+Watch the Demo
+https://github.com/user-attachments/assets/e9a38aaa-51f7-4914-b1fa-5bd6dce1f1db
+
 
 
 File Structure
