@@ -2,7 +2,12 @@
 
 This is a simple Counter application built using HTML, CSS, and JavaScript. The application allows users to increase, decrease, and reset a counter value, which is displayed dynamically on the webpage.
 
+# Video Demo:
 
+### Watch the Demo
+
+
+https://github.com/user-attachments/assets/e9a38aaa-51f7-4914-b1fa-5bd6dce1f1db
 
 # Features
 
@@ -32,13 +37,6 @@ Open the index.html file in any modern web browser.
 
 Interact with the buttons to see the counter update in real-time.
 
-
-# Video Demo:
-
-### Watch the Demo
-
-
-https://github.com/user-attachments/assets/e9a38aaa-51f7-4914-b1fa-5bd6dce1f1db
 
 # Usage
 
