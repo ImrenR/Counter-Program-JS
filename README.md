@@ -2,7 +2,6 @@ Counter Project
 
 This is a simple Counter application built using HTML, CSS, and JavaScript. The application allows users to increase, decrease, and reset a counter value, which is displayed dynamically on the webpage.
 
-
 Features
 
 Increase Button: Increment the counter value.
@@ -44,7 +43,7 @@ Video Demo
 Example:
 
 <video controls>
-  <source src="screen-capture (4).webm">
+  <source src="./video/demo.webm">
 </video>
 
 Alternatively, provide a link:
@@ -53,10 +52,7 @@ Watch the Demo
 File Structure
 
 .
-├── index.html      # The main HTML file
-├── style.css       # The CSS file for styling
-├── index.js        # The JavaScript file for functionality
-└── README.md       # Project documentation
-
-
-
+├── index.html # The main HTML file
+├── style.css # The CSS file for styling
+├── index.js # The JavaScript file for functionality
+└── README.md # Project documentation
