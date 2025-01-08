@@ -4,7 +4,7 @@ This is a simple Counter application built using HTML, CSS, and JavaScript. The 
 
 
 
-#File Structure
+# File Structure
 
 
 .
