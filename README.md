@@ -6,11 +6,13 @@ This is a simple Counter application built using HTML, CSS, and JavaScript. The 
 
 #File Structure
 
+
 .
 ├── index.html # The main HTML file
 ├── style.css # The CSS file for styling
 ├── index.js # The JavaScript file for functionality
 └── README.md # Project documentation
+
 
 
 # Video Demo:
