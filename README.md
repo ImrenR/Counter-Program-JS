@@ -4,24 +4,6 @@ This is a simple Counter application built using HTML, CSS, and JavaScript. The 
 
 
 
-# File Structure
-
-
-.
-├── index.html # The main HTML file
-├── style.css # The CSS file for styling
-├── index.js # The JavaScript file for functionality
-└── README.md # Project documentation
-
-
-
-# Video Demo:
-
-### Watch the Demo
-
-
-https://github.com/user-attachments/assets/e9a38aaa-51f7-4914-b1fa-5bd6dce1f1db
-
 # Features
 
 Increase Button: Increment the counter value.
@@ -49,6 +31,14 @@ Clone or download this repository to your local machine.
 Open the index.html file in any modern web browser.
 
 Interact with the buttons to see the counter update in real-time.
+
+
+# Video Demo:
+
+### Watch the Demo
+
+
+https://github.com/user-attachments/assets/e9a38aaa-51f7-4914-b1fa-5bd6dce1f1db
 
 # Usage
 
