@@ -38,16 +38,11 @@ Click the Decrease button to subtract 1 from the counter.
 
 Click the Reset button to reset the counter to 0.
 
-Video Demo
-
-Example:
-
-<video controls>
-  <source src="./video/demo.webm">
-</video>
-
-Alternatively, provide a link:
+Video Demo:
 Watch the Demo
+
+[screen-capture (4).webm](https://github.com/user-attachments/assets/da3c4a40-a9f7-4640-aab4-eb5a6a229542)
+
 
 File Structure
 
